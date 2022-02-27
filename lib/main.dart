@@ -30,7 +30,7 @@ class _FitnessAppState extends State<FitnessApp> {
   //background for the header and the list Item
 // ignore: non_constant_identifier_names
 String img_Header =
-    "assets/wout1.jpeg";
+    "assets/wout4.jpeg";
 
 List<String> trainingImage = [
   'assets/wout2.jpg',
