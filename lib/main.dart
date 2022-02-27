@@ -91,7 +91,7 @@ List<String> trainingImage = [
                     ),
                   ),
                 ),
-                preferredSize: const Size.fromHeight(100.0),),
+                preferredSize: const Size.fromHeight(200.0),),
               actions: [
                 IconButton(
                   onPressed: () {},
