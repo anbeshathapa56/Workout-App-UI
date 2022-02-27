@@ -55,7 +55,7 @@ List<String> trainingImage = [
               ),
               centerTitle: true,
               backgroundColor: Colors.blue,
-              toolbarHeight: 80.0,
+              toolbarHeight: 90.0,
               leading: IconButton(
                 onPressed: () {},
                 icon: const Icon(Icons.menu),
@@ -72,7 +72,7 @@ List<String> trainingImage = [
               bottom: PreferredSize(
                 child: Padding(
                   padding: const EdgeInsets.only(
-                      bottom:24.0, left: 12.0, right: 12.0 ),
+                      bottom:24.0, left: 16.0, right: 12.0 ),
                   child: TextField(
                     decoration: InputDecoration(
                       filled: true,
@@ -86,7 +86,7 @@ List<String> trainingImage = [
                       hintText: "Search for a training program...",
                       prefixIcon: const Icon(
                         Icons.search,
-                        color: Colors.black,
+                        color: Colors.white,
                       )
                     ),
                   ),
