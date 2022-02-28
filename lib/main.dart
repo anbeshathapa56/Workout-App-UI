@@ -30,7 +30,7 @@ class _FitnessAppState extends State<FitnessApp> {
   //background for the header and the list Item
 // ignore: non_constant_identifier_names
 String img_Header =
-    "assets/wout4.jpeg";
+    "assets/wout1.jpeg";
 
 List<String> trainingImage = [
   'assets/wout2.jpg',
@@ -50,7 +50,7 @@ List<String> trainingImage = [
               expandedHeight: 300.0,
               pinned: true,
               floating: false,
-              title: const Text("FitApps",
+              title: const Text("FitApp",
                 style: TextStyle(color: Colors.white),
               ),
               centerTitle: true,
