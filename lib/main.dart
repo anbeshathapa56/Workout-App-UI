@@ -117,7 +117,7 @@ List<String> trainingImage = [
                 ),
                 listItem( trainingImage[0], "Full Body Program", 53, 30),
                 listItem( trainingImage[1], "Beginners", 30, 10),
-                listItem( trainingImage[2], "Intermediate", 60, 10),
+                listItem( trainingImage[2], "Intermediate", 70, 10),
                 listItem( trainingImage[3], "Hard Core", 53, 30),
               ],
             ),
